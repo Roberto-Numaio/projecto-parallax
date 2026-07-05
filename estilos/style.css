@@ -87,16 +87,16 @@ section.imagem > p {
 }
 
 section#img01 {
-    background-image: url('../imagens/alvaro-serrano-hjwKMkehBco-unsplash.jpg');
+    background-image: url('/imagens/Alvaro-serrano.jpg');
 }
 
 section#img02 {
-    background-image: url('../imagens/dav-hovhannisyan-j6TVy_gT5PY-unsplash.jpg');
+    background-image: url('../imagens/dav-hovhannisyan.jpg');
     background-position: center center;
 }
 
 section#img03 {
-    background-image: url('../imagens/christian-MjROQpMVNVA-unsplash.jpg');
+    background-image: url('../imagens/Christian.jpg');
 }
 
 footer {
