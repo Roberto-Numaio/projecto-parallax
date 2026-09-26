@@ -34,8 +34,6 @@ The main highlight of the project is the **Parallax effect**, which creates a se
     └── 🖼️ Project images
 ```
 
-> The structure may vary depending on the current organization of the project files.
-
 ## 🎯 Project Goals
 
 The main goal of this project is to practice:
